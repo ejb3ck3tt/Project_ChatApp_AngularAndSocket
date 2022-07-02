@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "5f5c6ab6a0d20426f894b7be"
+  },
+  "username": "Super",
+  "password": "password",
+  "email": "",
+  "superAdmin": true,
+  "groupAdmin": true,
+  "profileImage": "images/default/profile.gif",
+  "groups": [
+    {
+      "name": "newbies",
+      "channels": [
+        "general",
+        "help"
+      ]
+    },
+    {
+      "name": "general",
+      "channels": [
+        "general",
+        "chitchat",
+        "topic of the day",
+        "Fun "
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7c6f725312ee0f5c2e1100"
+  },
+  "username": "Lex",
+  "password": "1234",
+  "email": "lex@mail.com",
+  "superAdmin": false,
+  "groupAdmin": false,
+  "profileImage": "images/default/profile.gif",
+  "groups": [
+    {
+      "name": "newbies",
+      "channels": [
+        "general",
+        "help"
+      ]
+    },
+    {
+      "name": "general",
+      "channels": [
+        "general",
+        "chitchat",
+        "topic of the day"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7c6f915312ee0f5c2e1101"
+  },
+  "username": "Mary",
+  "password": "1234",
+  "email": "mary@mail.com",
+  "superAdmin": false,
+  "groupAdmin": true,
+  "profileImage": "images/default/profile.gif",
+  "groups": [
+    {
+      "name": "newbies",
+      "channels": [
+        "general",
+        "help"
+      ]
+    },
+    {
+      "name": "general",
+      "channels": [
+        "general",
+        "chitchat",
+        "topic of the day"
+      ]
+    }
+  ]
+}]
