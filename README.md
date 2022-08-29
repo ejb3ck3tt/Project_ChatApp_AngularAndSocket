@@ -80,3 +80,7 @@ The users service contains the requests for all dashboard, groups and channel da
 * `npm install formidable`
 
 *** Ensure you navigate to the chat-app and run 'npm install' in order to update the files in the node_modules ***
+
+
+## LICENSE
+[MIT](https://github.com/MichaIng/nodejs-linux-installer/blob/master/LICENSE)
